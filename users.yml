@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 user :
-  message: "Welcome to CartWorks users related local APIs "
+  message: "Welcome to CartWorks users related Local APIs "
   contactDetails:
     name: "Yaron Olivcovitz - Product Owner"
     email: "yaron.olivcovitz@cartworks.com"
