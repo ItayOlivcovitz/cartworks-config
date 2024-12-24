@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 orders :
-  message: "Welcome to CartWorks orders related Local APIs "
+  message: "Welcome to CartWorks orders related local APIs "
   contactDetails:
     name: "Yaron Olivcovitz - Product Owner"
     email: "{cipher}fa6e94a8f9dcc349a2d1f04fa68f54f8fac9171e9feb2624e73102ea4cc282f6544accc4de11a6f1232845f4ab38dc67"
